@@ -22,6 +22,6 @@ public class check extends TestBase {
 	//get the status code
 	public void status() {
 		getclient =new GetClient();
-		closeablehttpresponse =getclient.
+		closeablehttpresponse =getclient.java.
 	}
 }
