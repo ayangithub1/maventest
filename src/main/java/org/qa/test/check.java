@@ -23,7 +23,6 @@ public class check extends TestBase {
 	public void status() {
 		getclient =new GetClient();
 		closeablehttpresponse =getclient.java.
-				closeable new
-				closeable dirty
+			
 	}
 }
